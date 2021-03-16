@@ -35,3 +35,4 @@ The buyer has the right to withdraw their offer at any given time. Once the requ
 Our business model gives our customers a better rate of trading than any other platform. For example, Amazon collects an average of 15 percent in addition to other miscellaneous fees, but we have a fixed rate of 10 percent on each product traded. Our blockchain technology protects the sensitive content of Intellectual property. It allows essay traceability of each transaction and protects proof of ownership. All such components make our service an efficient marketplace to connect market buyers with market sellers. 
 
 
+[Presentation Link](https://docs.google.com/presentation/d/1yiyYa52-4f6dYEM7ywP0gv54rffe9Jtb-qFM2qua5NM/edit?usp=sharing)
